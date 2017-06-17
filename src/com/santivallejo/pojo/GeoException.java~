@@ -3,7 +3,7 @@ package com.santivallejo.pojo;
 public class GeoException extends Exception {
 
 	/**
-	 * Esto es una prueba de cambio
+	 *
 	 */
 	private static final long serialVersionUID = 1L;
 	private int statusCode;
