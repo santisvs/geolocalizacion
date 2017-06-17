@@ -2,7 +2,7 @@ package com.santivallejo.pojo;
 
 public class GeoException extends Exception {
 
-	/**Prueba de v2.0 para rama Test
+	/**
 	 *
 	 */
 	private static final long serialVersionUID = 1L;
