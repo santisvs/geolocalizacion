@@ -1,0 +1,11 @@
+commit 2d9a5b5c61d3c9ebf38b413264fd49071de2fed4
+Author: santisvs <santiago.vallejo.suarez@gmail.com>
+Date:   Sat Jun 17 18:51:13 2017 +0200
+
+    Incluimos cambioos en el JavaDoc
+
+commit 519a17c61fe89b5d8d85afcfdce67dc4f2bdd60f
+Author: santisvs <santiago.vallejo.suarez@gmail.com>
+Date:   Sat Jun 17 18:48:53 2017 +0200
+
+    Subida inicial de la version 1.0
