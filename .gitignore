@@ -1,2 +1,9 @@
-build
+# Ficheros desde raiz
 commits.txt
+.classpath
+.project
+
+#Ficheros de carpetas
+/build
+/.settings
+
