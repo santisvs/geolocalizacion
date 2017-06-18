@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ficheros desde raiz
 commits.txt
 .classpath
@@ -7,3 +8,34 @@ commits.txt
 /build
 /.settings
 
+=======
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Fichero commits.txt
+commits.txt
+
+# Ficheros de eclipse
+.project
+.classpath
+>>>>>>> b321806a634bec0ddae0490fdc39c7ec972ccc4e
